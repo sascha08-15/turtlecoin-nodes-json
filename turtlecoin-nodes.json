@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "name": "Global TRTLnode",
+      "name": "Another global TRTLnode",
       "url": "turtlecoin.ddns.us",
       "port": 11898,
       "ssl": false,
