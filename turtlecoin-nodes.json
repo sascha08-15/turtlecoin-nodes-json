@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "name": "1A global TRTLnode",
+      "url": "turtlecoin.ddns.us",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Ace TRTL Node",
       "url": "ace.turtlenode.uk",
       "port": 11898,
